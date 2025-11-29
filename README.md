@@ -149,7 +149,7 @@ CMD ["npm", "start"]
 ## ✔️ Step 2: Image Build
 
 ```bash
-sudo docker build -t project-image .
+sudo docker build -t myapp-image .
 ```
 
 👉 এখানে **myapp-image** এর মতো নাম না দিয়ে নিজের প্রজেক্টের নাম দেওয়া উচিত।
